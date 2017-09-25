@@ -1,0 +1,11 @@
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\bin\Debug\POS.exe.config
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.Form1.resources
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\bin\Debug\POS.exe
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\bin\Debug\POS.pdb
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\bin\Debug\MySql.Data.DLL
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.exe
+c:\users\pc-ng-gwapo\documents\visual studio 2013\Projects\POS\POS\obj\Debug\POS.pdb
+C:\Users\PC-NG-GWAPO\Documents\Visual Studio 2013\Projects\POS\POS\bin\Debug\Bunifu_UI_v1.52.dll
